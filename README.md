@@ -19,39 +19,11 @@ I enjoy turning complex ideas into **working systems** and learning by building 
 
 - **B.Tech in Computer Engineering** (2024 – 2027)  
   Vishwakarma Institute of Technology, Pune  
-  **CGPA:** 8.69
 
 - **Diploma in Computer Technology** (2021 – 2024)  
   Government Polytechnic, Solapur  
-  **Final Year:** 91.89%
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔐 GhostVault — Secure Data Management Platform
-- AES-256-GCM encryption with PBKDF2 (zero-knowledge design)
-- AI-assisted semantic file search
-- Multi-user authentication & breach alerts
-- Performance optimized with multithreading (**38% faster retrieval**)
-
-### 🌍 AirSense Intelligence — Real-Time AQI Forecasting
-- ML models (XGBoost, Gradient Boosting) with **92% accuracy**
-- Real-time sensor ingestion & REST APIs
-- Predictive analytics dashboards & anomaly detection
-
-### 🎨 OpenCritique — Decentralized Art Critique Platform (Web3)
-- On-chain reputation & token reward system
-- Escrow-based funding mechanism
-- React + Tailwind frontend, ICP blockchain backend
-
-### 🤖 NeuroMesh Network — Distributed AI Platform
-- Secure P2P architecture (TCP / UDP)
-- Peer discovery, task replication & load balancing
-- Real-time synchronization for AI workloads
-
----
-
 ## 🧠 What I’m Currently Focusing On
 
 - Deepening **cloud & DevOps fundamentals**
@@ -90,7 +62,7 @@ I enjoy turning complex ideas into **working systems** and learning by building 
 - 🏅 **WCHL 2025** — Global Hackathon Finalist  
 - 🏅 **Mastercard Code for Change 2.0** — National Finalist  
 - 🥇 Multiple inter-college hackathon wins  
-- 👥 Led **6+ technical projects** across AI, Web3 & secure systems
+- 👥 Led **Multiple technical projects** across AI, Web3 & secure systems
 
 ---
 
