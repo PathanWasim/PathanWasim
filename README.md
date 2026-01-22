@@ -1,90 +1,126 @@
 # 💫 Hi 👋, I'm Wasim Pathan
-**Computer Engineering Undergraduate || Systems & Security Enthusiast || AI • Web3 • Cloud from India**
+**Computer Engineering Student | Systems • Cloud • Security • AI**
 
-Email Me 👉 ✉️ **wpathan157@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-## 🔗 I am a Tech Enthusiast & Builder 😊😊
-
-I enjoy building secure, scalable, and intelligent systems spanning **AI, distributed systems, blockchain, and cloud-native applications**.  
-I actively participate in hackathons and work on real-world, production-grade projects.
+📍 Pune, India  
+📧 Email: **wpathan157@gmail.com**
 
 ---
 
-## 💸 Support My Work 🤝	
+## 🌟 About Me
 
-If you’ve found my projects, repositories, or write-ups helpful — and want to say **thanks**, here are a few ways to support 💖:
+I’m a Computer Engineering undergraduate at **Vishwakarma Institute of Technology, Pune**,  
+with a strong interest in **secure systems, cloud-native technologies, AI-driven platforms, and distributed architectures**.
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/)
-[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](#)
+I enjoy turning complex ideas into **working systems** and learning by building real projects, not just tutorials 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wasimpathan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🎓 Education
+
+- **B.Tech in Computer Engineering** (2024 – 2027)  
+  Vishwakarma Institute of Technology, Pune  
+  **CGPA:** 8.69
+
+- **Diploma in Computer Technology** (2021 – 2024)  
+  Government Polytechnic, Solapur  
+  **Final Year:** 91.89%
 
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Grafana](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+## 🚀 Featured Projects
+
+### 🔐 GhostVault — Secure Data Management Platform
+- AES-256-GCM encryption with PBKDF2 (zero-knowledge design)
+- AI-assisted semantic file search
+- Multi-user authentication & breach alerts
+- Performance optimized with multithreading (**38% faster retrieval**)
+
+### 🌍 AirSense Intelligence — Real-Time AQI Forecasting
+- ML models (XGBoost, Gradient Boosting) with **92% accuracy**
+- Real-time sensor ingestion & REST APIs
+- Predictive analytics dashboards & anomaly detection
+
+### 🎨 OpenCritique — Decentralized Art Critique Platform (Web3)
+- On-chain reputation & token reward system
+- Escrow-based funding mechanism
+- React + Tailwind frontend, ICP blockchain backend
+
+### 🤖 NeuroMesh Network — Distributed AI Platform
+- Secure P2P architecture (TCP / UDP)
+- Peer discovery, task replication & load balancing
+- Real-time synchronization for AI workloads
 
 ---
 
-# 📊 GitHub Stats:
+## 🧠 What I’m Currently Focusing On
+
+- Deepening **cloud & DevOps fundamentals**
+- Building **secure, scalable backend systems**
+- Practicing **DSA & problem solving** on LeetCode
+- Exploring **AI + systems integration**
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Systems & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### Data, Monitoring & DevOps
+![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=for-the-badge&logo=apachekafka)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+---
+
+## 🏆 Achievements
+
+- 🏅 **WCHL 2025** — Global Hackathon Finalist  
+- 🏅 **Mastercard Code for Change 2.0** — National Finalist  
+- 🥇 Multiple inter-college hackathon wins  
+- 👥 Led **6+ technical projects** across AI, Web3 & secure systems
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasimpathan&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wasimpathan&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasimpathan&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wasimpathan&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasimpathan&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=wasimpathan&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=wasimpathan&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathanWasim&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PathanWasim&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PathanWasim&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathanWasim&theme=radical&utcOffset=5.5">
 
-</div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimpathan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=wasimpathan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=wasimpathan&theme=dark&hide_border=false)
-
----
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wpathan157@gmail.com)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pathanwasim)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mr_wasim_pathan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/wasim_pathan_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PathanWasim/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpathan157@gmail.com)
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wasimpathan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Snake animation -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
