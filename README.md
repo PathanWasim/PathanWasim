@@ -1,4 +1,4 @@
-# Hi 👋, I'm Wasim Pathan
+# Hi there👋, I'm Wasim Pathan
 **Computer Engineering Student | Systems • Cloud • Security • AI**
 
 📍 Pune, India  
