@@ -3,6 +3,9 @@
 
 📍 Pune, India  
 📧 Email: **wpathan157@gmail.com**
+🔗 Linktree: https://linktr.ee/wasimpathan
+🌐 Portfolio: https://wasimpathan.vercel.app
+
 
 ---
 
