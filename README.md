@@ -1,11 +1,10 @@
-# Hi there👋, I'm Wasim Pathan
+# Hi there 👋, I'm Wasim Pathan
+
 **Computer Engineering Student | Systems • Cloud • Security • AI**
 
-📍 Pune, India 
-🌐 Portfolio: https://wasimpathan.vercel.app  
+📍 Pune, India  
+🌐 Portfolio: **https://wasimpathan.vercel.app**  
 📧 Email: **wpathan157@gmail.com**
-
-
 
 ---
 
@@ -27,6 +26,7 @@ I enjoy turning complex ideas into **working systems** and learning by building 
   Government Polytechnic, Solapur  
 
 ---
+
 ## 🧠 What I’m Currently Focusing On
 
 - Deepening **cloud & DevOps fundamentals**
@@ -65,19 +65,17 @@ I enjoy turning complex ideas into **working systems** and learning by building 
 - 🏅 **WCHL 2025** — Global Hackathon Finalist  
 - 🏅 **Mastercard Code for Change 2.0** — National Finalist  
 - 🥇 Multiple inter-college hackathon wins  
-- 👥 Led **Multiple technical projects** across AI, Web3 & secure systems
+- 👥 Led **multiple technical projects** across AI, Web3, and secure systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathanWasim&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PathanWasim&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PathanWasim&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathanWasim&theme=radical&utcOffset=5.5">
-
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathanWasim&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PathanWasim&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PathanWasim&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathanWasim&theme=radical&utcOffset=5.5">
 </div>
 
 ---
