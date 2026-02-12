@@ -8,34 +8,6 @@
 
 ---
 
-## 🌟 About Me
-
-I’m a Computer Engineering undergraduate at **Vishwakarma Institute of Technology, Pune**,  
-with a strong interest in **secure systems, cloud-native technologies, AI-driven platforms, and distributed architectures**.
-
-I enjoy turning complex ideas into **working systems** and learning by building real projects, not just tutorials 🚀
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Engineering** (2024 – 2027)  
-  Vishwakarma Institute of Technology, Pune  
-
-- **Diploma in Computer Technology** (2021 – 2024)  
-  Government Polytechnic, Solapur  
-
----
-
-## 🧠 What I’m Currently Focusing On
-
-- Deepening **cloud & DevOps fundamentals**
-- Building **secure, scalable backend systems**
-- Practicing **DSA & problem solving** on LeetCode
-- Exploring **AI + systems integration**
-
----
-
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
