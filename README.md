@@ -1,10 +1,11 @@
-# Hi there 👋, I'm Wasim Pathan
+# Hi there 👋, I’m Wasim Pathan
 
-**Computer Engineering Student | Systems • Cloud • Security • AI**
+**Computer Engineering student who enjoys building backend systems, deploying things to the cloud, and experimenting with applied AI.**  
+I like working close to how software behaves in the real world, not just in theory.
 
 📍 Pune, India  
-🌐 Portfolio: **https://wasimpathan.vercel.app**  
-📧 Email: **wpathan157@gmail.com**
+🌐 Portfolio: https://wasimpathan.vercel.app  
+📧 Email: wpathan157@gmail.com
 
 ---
 
@@ -50,43 +51,19 @@
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=fcc624)
 
-
 ---
 
 ## 🏆 Achievements
-
-- 🏅 **WCHL 2025** — Global Hackathon Finalist  
-- 🏅 **Mastercard Code for Change 2.0** — National Finalist  
-- 🥇 Multiple inter-college hackathon wins  
-- 👥 Led **multiple technical projects** across AI, Web3, and secure systems
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PathanWasim&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PathanWasim&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PathanWasim&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PathanWasim&theme=radical&utcOffset=5.5">
-</div>
+- Global finalist at **WCHL 2025**, working on a production-style hackathon project
+- National finalist at **Mastercard Code for Change 2.0**
+- Winner at multiple inter-college hackathons
+- Built and led student projects across backend systems, AI-powered applications, and security-focused prototypes
 
 ---
 
 ## 🌐 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pathanwasim)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/mr_wasim_pathan)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/wasim_pathan_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PathanWasim/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wpathan157@gmail.com)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
