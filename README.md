@@ -10,8 +10,6 @@
 
 ## 💻 Tech Stack
 
-## 💻 Tech Stack
-
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=orange)
