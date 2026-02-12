@@ -22,13 +22,11 @@
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=00c7b7)
 ![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
 ### AI, Machine Learning & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge)
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=ee4c2c)
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=f7931e)
@@ -46,7 +44,6 @@
 
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
 ![GCP](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=4285f4)
-
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ed)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
 
