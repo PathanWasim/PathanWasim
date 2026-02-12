@@ -1,7 +1,6 @@
 # Hi there 👋, I’m Wasim Pathan
 
-**Computer Engineering student who enjoys building backend systems, deploying things to the cloud, and experimenting with applied AI.**  
-I like working close to how software behaves in the real world, not just in theory.
+I’m a Computer Engineering student who likes understanding how systems work end to end — from writing backend code to deploying it and seeing how it behaves in production. I enjoy experimenting with applied AI, breaking things while learning, and gradually improving how I build software in the real world.
 
 📍 Pune, India  
 🌐 Portfolio: https://wasimpathan.vercel.app  
@@ -54,10 +53,10 @@ I like working close to how software behaves in the real world, not just in theo
 ---
 
 ## 🏆 Achievements
-- Global finalist at **WCHL 2025**, working on a production-style hackathon project
+- Global finalist at **WCHL 2025**, where I worked on a production-style hackathon project with real deployment constraints  
 - National finalist at **Mastercard Code for Change 2.0**
-- Winner at multiple inter-college hackathons
-- Built and led student projects across backend systems, AI-powered applications, and security-focused prototypes
+- Won multiple inter-college hackathons through team-based problem solving
+- Led and built student projects involving backend systems, AI-driven features, and security-focused prototypes
 
 ---
 
